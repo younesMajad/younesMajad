@@ -1,7 +1,6 @@
-## About me 
+## About me ✨
 
 I'm a **MERN Stack Developer** focused on building web applications.  
-I enjoy backend development while delivering clean, modern frontends.
 ---
 ### 🧑‍💻 What I Do
 - Full-stack web development
