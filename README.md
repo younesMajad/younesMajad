@@ -1,16 +1,36 @@
-## Hi there 👋
+## About me 
 
-<!--
-**younesMajad/younesMajad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **MERN Stack Developer** focused on building web applications.  
+I enjoy backend development while delivering clean, modern frontends.
+---
+### 🧑‍💻 What I Do
+- Full-stack web development
+- REST API development
+- Backend architecture & logic
+- Modern UI development with React & Next.js
+- 
+### 🛠 Tech Stack 
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,ts" />
+</p>
 
-Here are some ideas to get you started:
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+### 🎯 Current Focus
+- Backend best practices
+- API security & performance
+- Writing clean, maintainable code
+
